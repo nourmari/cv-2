@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="pd.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+    <div style="display: flex;">
+        <DIV class="div">
+
+            <H1 class="h1"> 𝓝𝓸𝓾𝓻 𝓰𝓪𝓷𝓷𝓸𝓾𝓷𝓲</H1>
+            <IMG class="img"
+                src=" https://scontent.ftun1-2.fna.fbcdn.net/v/t1.6435-9/161188519_461087168539777_930306368073745062_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=19026a&_nc_ohc=No7ngmySNwMAX_rFHpC&_nc_ht=scontent.ftun1-2.fna&oh=09ee7f114ba778c7b45681e8ab9a6415&oe=6171FBBC"
+                alt=""> </IMG>
+            <P class="p">Numéro de tel +21628001247</P>
+            <IMG class="i1"
+                src="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMHnEJ6YTTFuI535vROXFfe-ZbsFOa2GtlLZLpSFdhhikDymgTBlMrjVKDcVU1Mnbto90&usqp=CAU">
+            </IMG>
+            <P class="p">Email: nournawran@gmail.com </P>
+            <IMG class="i1" src="https://static.javatpoint.com/computer/images/e-mail.png" alt=""></IMG>
+            <p class="p"> Address: Sabea fyoudh Ibrahim - Bouselem- Jendouba </p>
+            <img class="i1"
+                src="https://www.xda-developers.com/files/2017/04/Many-of-the-Top-100000-Android-Applications-are-Selling-Your-GPS-Location-Data-e1627558218326-1024x667.png"
+                alt="">
+            <p class="p"> Date de naissance: 25/6/1994 </p>
+            <img class="i1"
+                src="https://thumbs.dreamstime.com/b/human-fetus-hand-drawn-vector-illustration-isolated-white-new-life-conceptual-symbol-human-fetus-hand-drawn-vector-illustration-106028788.jpg"
+                alt="">
+
+            <h2> langues </h2>
+            <h3>
+                <br> Arabe , <br>
+                <br> anglais , <br>
+                <br> français , <br>
+
+
+            </h3>
+
+            <h2>Centre d intérieur :</h2>
+            <div style="display: flex;">
+                <p class="p">Natation </p>
+                <img class="i"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_g3ourtiw1_zyIc6RFtL6_2NDiKO4UTxI460FPjzkR_XOKRo2WxxB6BtVt36ZihGFe18&usqp=CAU"
+                    alt="">
+
+                <p class="p">Football </p>
+                <img class="i"
+                    src="https://www.wallpapertip.com/wmimgs/53-532075_football-logo-wallpaper-transparent-football-logo-png.png"
+                    alt="">
+                <p class="p">Tennis</p>
+                <img class="i"
+                    src="https://previews.123rf.com/images/madabatman/madabatman1404/madabatman140400017/27904629-vector-illustration-of-tennis-player.jpg"
+                    alt="">
+            </div>
+
+            <h2> LOISIR:</h2>
+
+            <h3>
+                <br>. Music <br>
+                <br> . Dance <br>
+                <br> . Randonnée <br>
+                <br>. Cuisine et pâtisserie <br>
+
+
+            </h3>
+
+        </DIV>
+
+        <DIV class="div1">
+
+
+            <div class="ce"></div>
+            <h2> Étude et formation : </h2>
+            <hr class="hr">
+            <p class="p1">
+                Niveau bac économie et gestion </p>
+
+            <div class="ce"></div>
+            <h2> Parcours professionnel : </h2>
+            <hr class="hr">
+            <p class="p1">
+                <br> Stage a la société se bordnetz <br>
+                <br> *service financier* <br>
+            </p>
+
+
+            <div class="ce"></div>
+            <h2> Période : </h2>
+
+            <hr class="hr">
+            <p class="p1">
+                3 mois de 10/5/2016 à 31/8/2016
+            </p>
+
+
+            <div class="ce"></div>
+            <h2> Certificat de formation : </h2>
+
+            <hr class="hr">
+
+
+            </h2>
+            <p class="p1">
+
+                Professionnelle en commerce international (douane et transit ) en L école de formation
+                Idéal pro en 2016 </p>
+
+            <p class="p1">
+
+                Je maîtrise bien les langages suivants ➡️
+            <div class="b">
+                <br> . Html <br>
+                <br> . CSS <br>
+                <br> . Javascript <br>
+                <br> . jQuery <br>
+                <br> . Bootstrap <br>
+            </div>
+
+            </p>
+
+
+
+
+
+
+
+
+
+            <div class="ce"></div>
+            <h2> Compétence : </h2>
+            <hr class="hr">
+            <p class="p1">
+                Maîtrise de l outil
+                Informatique (word , exel , power Point..)</p>
+
+
+
+
+
+
+        </DIV>
+
+
+.img{
+
+border-radius: 50%;
+border: solid rgb(22, 22, 20) 4px;
+width: 210px;
+height: 210px;
+margin-left: 50px;
+padding: 10px;
+background-color: rgb(194, 183, 167);
+}
+.h1{
+    padding-left: 30%;
+    padding-top:10Px ;
+    font: 12pt/26pt satisfy;
+    font-style:  vegan;
+    font-size: 50px;
+    color: rgb(58, 92, 94);
+    
+
+}
+.div{
+    background-color: rgb(119, 224, 224);
+}
+.p{ padding-left: 20px;
+    padding-top: 5px;
+font-size: 20px;
+
+}
+
+.i{ 
+    padding-left: 20px;
+    width: 70px;
+    height: 50px;
+
+}
+
+.i1{ 
+    padding-left: 40px;
+    width: 80px;
+    height: 60px;
+
+}
+
+h2{
+margin-left: 30px;
+margin-top: 10px;
+font-size: 30px;
+
+}
+h3{
+    padding-left: 60px;
+
+}
+.div1{
+    background-color: rgb(247, 244, 203);
+    padding-left: 30px;
+    padding-top: 5px;
+}
+.p1{
+    margin: 10px;
+    font-size: 18px;
+}
+.hr{
+    width: 300px;
+    border: solid 1px;
+    margin-left: 60px;
+}
+.ce{
+    width: 25px;
+    height: 25px;
+    border-radius: 20px;
+    background: green;
+}
+.b{ margin-left: 10px;
+    padding-left: 3àpx;
+    font-size: 20px;
+    border: solid black 2px;
+    margin-right: 280px;
+    padding-bottom:20px ;
+    
+}
